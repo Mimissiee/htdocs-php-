@@ -4,6 +4,6 @@
 
 $depan = "ammar";
 $tengah = "yusuf";
-$belakang = "wiraputra";
+$belakang = "wiraputra.";
 
 echo "Nama saya $depan $tengah $belakang\n";
