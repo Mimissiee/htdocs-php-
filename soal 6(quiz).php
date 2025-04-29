@@ -1,6 +1,6 @@
 <?php
 
-$nilai = 94; 
+$nilai = 94; // Nilai kunsya
 
 if ($nilai >= 90) {
     echo "Sangat mampu";
